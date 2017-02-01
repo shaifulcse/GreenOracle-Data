@@ -1,0 +1,6 @@
+name,weight
+Wait for Wattlog,0
+Load App,1
+read_first,1
+read_second,1
+exit,1

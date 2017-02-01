@@ -1,0 +1,6 @@
+name,weight
+Wait for Wattlog,0
+Load App & Enter Website URL,1
+Load Website,1
+scroll,1
+Exit & Wait,1

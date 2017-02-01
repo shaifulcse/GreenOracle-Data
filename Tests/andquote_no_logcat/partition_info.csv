@@ -1,0 +1,6 @@
+name,weight
+Wait for Wattlog,0
+Load App,1
+Load data,1
+scroll,1
+Exit & Wait,1

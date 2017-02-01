@@ -1,0 +1,6 @@
+name,weight
+"Wait for Wattlog",0
+"Idle before launching App",0
+"Load App & view current weather",0
+"Idle App",1
+"Exit & Wait",0

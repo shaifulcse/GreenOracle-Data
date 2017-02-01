@@ -1,0 +1,6 @@
+name,weight
+Wait for Wattlog,0
+Load App & Enter Website URL,1
+Load Website,1
+Tap Every 10s Keeping Screen Awake,1
+Exit & Wait,1

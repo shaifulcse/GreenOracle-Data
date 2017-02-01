@@ -1,0 +1,7 @@
+name,weight
+Wait for Wattlog,0
+Load App,1
+Add items,1
+search,1
+delete,1
+Exit & Wait,0

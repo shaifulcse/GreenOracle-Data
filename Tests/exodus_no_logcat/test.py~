@@ -1,0 +1,12 @@
+import libgreenminer,time,subprocess
+
+class Test(libgreenminer.AndroidTest):
+	def before(self, run):
+		# Set Screen Timeout
+		subprocess.call("adb shell su -c service call bluetooth_manager 8", shell=True)
+		time.sleep(5)
+		subprocess.call("adb shell su -c svc wifi enable", shell=True)	
+		time.sleep(20)
+		subprocess.call("adb shell su -c settings put system screen_brightness 80", shell=True)
+		time.sleep(3)	
+		

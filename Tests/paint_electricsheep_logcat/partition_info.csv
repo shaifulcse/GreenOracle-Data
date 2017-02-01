@@ -1,0 +1,6 @@
+name,weight
+Wait for Wattlog,0
+Launch App & Prepare to Draw,0
+Draw Image,1
+Erase Image,1
+Exit & Wait,0

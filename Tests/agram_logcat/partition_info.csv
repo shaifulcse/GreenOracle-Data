@@ -1,0 +1,7 @@
+name,weight
+Wait for Wattlog,0
+Load App,1
+single word,1
+random word,1
+contained words,1
+exit,1
